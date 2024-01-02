@@ -1,0 +1,4 @@
+ipython
+google-cloud-texttospeech
+Pillow
+transformers
